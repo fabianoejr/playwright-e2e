@@ -1,0 +1,13 @@
+Tela Inicial (Login)
+	Acessar a Plataforma (realizar o login).
+	Recuperar a senha.
+	Cadastrar uma conta nova.
+
+Esqueceu a senha?
+	Inserir e-mail
+	Enviar e-mail de recuperação de senha
+
+Cadastre-se
+	Inserir as informações de cadastro de usuário
+	Ler os termos de uso
+	Cadastrar a conta
